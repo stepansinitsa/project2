@@ -13,7 +13,7 @@ export function readGameSaving() {
 export function writeGameSaving() {
 };
 
-import Character { };
+import class Character { };
 
 
   
